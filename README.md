@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Raina</h1>
-<h3 align="center">Experienced and performance-driven Software Developer with expertise in web development, including HTML, CSS, JavaScript, and ReactJS, and a strong background in data analysis. Proven ability to identify and resolve complex code issues. Demonstrated interest in conducting research to stay updated with industry advancements and implement innovative approaches. Strong passion for continuous learning and eagerness to leverage new technologies. I am excited to bring research-driven skills to create impactful software solutions.</h3>
+<h3 align="center">Experienced and performance-driven Software Developer Engineer with expertise in web development, including HTML, CSS, JavaScript, and ReactJS, and a strong background in data analysis. Proven ability to identify and resolve complex code issues. Demonstrated interest in conducting research to stay updated with industry advancements and implement innovative approaches. Strong passion for continuous learning and eagerness to leverage new technologies. I am excited to bring research-driven skills to create impactful software solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
